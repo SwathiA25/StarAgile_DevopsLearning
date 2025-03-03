@@ -5,14 +5,11 @@
 		<classes>
 			<class name="com.CRM.TestCase.HomePageTestCase" />
 		</classes>
-	</test> <!--
-	Test -->
+	</test> <!--Test -->
 
 	<test thread-count="5" name="LoginPageTest">
 		<classes>
 			<class name="com.CRM.TestCase.LoginPageTestCase" />
 		</classes>
-	</test> <!--
-	Test -->
-</suite> <!--
-Suite -->
+	</test> <!--Test -->
+</suite> <!--Suite -->
